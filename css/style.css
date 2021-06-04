@@ -431,6 +431,9 @@ button {
   border: none;
   appearance: none;
   background-color: transparent;
+  color: transparent;
+  box-shadow: none;
+  outline: none;
 }
 
 .radio-btn input::after,
